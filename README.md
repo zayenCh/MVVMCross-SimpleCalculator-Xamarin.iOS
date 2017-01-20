@@ -10,9 +10,12 @@ find more about MVVMCross at https://mvvmcross.com
 2 In the Class Libary install MvvmCross.core through NuGet Package Manager or through console : Install-Package MvvmCross.Core
 3 In the iOS project install MvvmCross.Binding. through NuGet Package Manager or through console : Install-Package MvvmCross.Binding.
 
-The project is a simple calculator: once you change the value of a UITextField , the result changes autmatically thanks to Binding mechanism
-<img src="https://github.com/zayenCh/MVVMCross-SimpleCalculator-Xamarin.iOS/blob/master/SimulatorScreenShot1.png" width=500>
-<img src="https://github.com/zayenCh/MVVMCross-SimpleCalculator-Xamarin.iOS/blob/master/SimulatorScreenShot1.png" width=500>
+The project is a simple calculator: once you change the value of a UITextField , the result changes autmatically thanks toBinding mechanism
+
+ <pre></pre>
+ 
+<img src="https://github.com/zayenCh/MVVMCross-SimpleCalculator-Xamarin.iOS/blob/master/SimulatorScreenShot1.png" width=300>
+<img src="https://github.com/zayenCh/MVVMCross-SimpleCalculator-Xamarin.iOS/blob/master/SimulatorScreenShot1.png" width=300>
 
 
 
